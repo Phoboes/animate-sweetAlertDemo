@@ -1,0 +1,15 @@
+.container {
+  width: 80%;
+  /*border: 1px dashed grey;*/
+  margin: auto;
+  font-size: 0;
+}
+
+.square {
+  margin-top: 60px;
+  width: 33%;
+  height: 250px;
+  border: 1px solid rgb( 220, 220, 220 );
+  display: inline-block;
+  background-color: rgb( 240, 240, 240 );
+}
